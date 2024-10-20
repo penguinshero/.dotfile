@@ -1,0 +1,13 @@
+# config.yaml for Subfinder
+
+# API Keys for different services
+api-keys:
+  virustotal: "7bfe879dcd7e44d5ccb8495dd8393419f90989e85dd8720a6172eee2030546f1"
+  shodan: "pEsqLE9RSobZsP8Culc5aHdxMHjrhe1O"
+  censys:
+    id: "f0aa8676-3fee-48ce-9071-53638e278d2f"
+    secret: "JVX6NypYQuy7CkDTq9IUMyTxyVUQhyFn"
+
+
+
+
